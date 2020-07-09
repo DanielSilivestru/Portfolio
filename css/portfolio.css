@@ -1,0 +1,48 @@
+body
+{   padding: 100px;
+
+    background-image: url("../img/image.png");
+    background-repeat:no-repeat; 
+	text-align: center;
+
+}
+h1
+{
+font-size:8em; 
+color:white;
+}
+h2
+{
+font-size:3em; 
+color:white;
+}
+h4
+{
+font-size:2em;
+color:white;
+}
+p{
+	text-align:justify;
+	color:black;
+	font-size:1,5em;
+}
+h3
+{
+	font-size:3em;
+}
+.image
+{
+	width:40%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p:hover {
+  font-size:1.01em;
+  text-decoration: underline;
+  transition-duration: 1s;
+}
+a
+{
+	text-decoration: none;
+}
